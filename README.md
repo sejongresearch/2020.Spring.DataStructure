@@ -32,7 +32,7 @@
 |    | 스택(3) |  [GoogleIO](https://github.com/unizard/2019.Spring.DataStructure/issues/27), 나머지  |  |
 |  | 퀴즈 3 |   |  | 
 |  | 실습 과제 마감 | | |
-|  | 과제 4 | [문제](https://www.dropbox.com/s/orc7u8j45ixfj3o/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%ED%80%B4%EC%A6%88.pdf?dl=0)  | 마감 5/24 | 
+|  | 과제 4 | [문제](https://www.dropbox.com/s/orc7u8j45ixfj3o/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%ED%80%B4%EC%A6%88.pdf?dl=0)  | | 
 | 11 | 큐  | [FL강의](https://swexpertacademy.com/main/learn/course/subjectDetail.do?subjectId=AV1847saI78CFAZN), [강의자료](https://www.dropbox.com/s/8blosxfw6jcl8uz/%EA%B0%95%EC%9D%9807-%ED%81%90.pdf?dl=0), [실습](https://www.dropbox.com/s/1ja9casd93mrpiz/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-11%EC%A3%BC%EC%B0%A8_%ED%81%90-20190517.pdf?dl=0)  |   |
 |  | 큐 | 큐 퀴즈 |  | 
 |  | 과제 5 | 큐 실습마무리 |  | 

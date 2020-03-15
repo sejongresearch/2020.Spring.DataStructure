@@ -8,7 +8,7 @@
 
 | week | Cource Contents | LectureNote | Date | 
 |:---:|:---:|:---:|:---:|
-| 1 | 강의개요 | [강의자료](https://www.dropbox.com/s/fktwtzulpmdl7dz/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%8B%A4%EC%8A%B5_1%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  |
+| 1 | 강의개요 | [강의자료]() |  |
 |   |  C언어 복습 I | [실습1](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | |
 |   |  C언어 복습 II | [Set1](https://www.dropbox.com/s/vaeup8l5l9dg63u/%EB%AA%A8%EC%9D%981%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0), [Set2](https://www.dropbox.com/s/hp1ktc7wremy25a/%EB%AA%A8%EC%9D%982%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0) | |
 | | 실습 마감 | | |

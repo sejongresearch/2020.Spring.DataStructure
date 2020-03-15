@@ -1,6 +1,6 @@
 
 ## 강의
-- [수업계획서]()
+- [수업계획서](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5.pdf)
 - 이론 수업: 화 13:30-15:00 / 금 12:00-13:30
 - 실습 수업: 금 13:30-15:30 [OJ](https://ex-oj.sejong.ac.kr) 
 - 강의실: 센 B108

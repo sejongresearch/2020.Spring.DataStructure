@@ -1,26 +1,26 @@
 
 ## 강의
 - [수업계획서](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5.pdf)
-- 이론 수업: 화 13:30-15:00 / 금 12:00-13:30
-- 실습 수업: 금 13:30-15:30 [OJ](https://ex-oj.sejong.ac.kr) 
+- 이론 수업: 월/수 13:30-15:00 
+- 실습 수업: 수 16:30-18:30 [OJ](https://ex-oj.sejong.ac.kr) 
 - 강의실: 센 B108
 - 조교님들: 메인조교-박종민(jmpark@rcv.sejong.ac.kr), 부조교-조원(jwon@rcv.sejong.ac.kr)
 
 | week | Cource Contents | LectureNote | Date | 
 |:---:|:---:|:---:|:---:|
-| 1 | 강의개요 | [강의자료](https://www.dropbox.com/s/fktwtzulpmdl7dz/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%8B%A4%EC%8A%B5_1%EC%9D%BC%EC%B0%A8.pdf?dl=0) | 3/5 |
-|   |  C언어 복습 I | [실습1](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | 3/8|
+| 1 | 강의개요 | [강의자료](https://www.dropbox.com/s/fktwtzulpmdl7dz/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%8B%A4%EC%8A%B5_1%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  |
+|   |  C언어 복습 I | [실습1](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | |
 |   |  C언어 복습 II | [Set1](https://www.dropbox.com/s/vaeup8l5l9dg63u/%EB%AA%A8%EC%9D%981%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0), [Set2](https://www.dropbox.com/s/hp1ktc7wremy25a/%EB%AA%A8%EC%9D%982%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0) | |
-| | 실습 마감 | | 3/14 PM 11:59|
-| 2 | 알고리즘 분석  | [강의자료](https://www.dropbox.com/s/f4gvfzk3vdwt6ee/%EA%B0%95%EC%9D%9801-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EC%84%9D_%EC%B5%9C%EC%9C%A0%EA%B2%BD.pdf?dl=0), [실습](https://www.dropbox.com/s/ll46d9hsojlyzjp/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-2%EC%A3%BC%EC%B0%A8_%EB%B6%84%EC%84%9D-20190315.pdf?dl=0) | 3/12, 3/15 | 
-|   | 실습 마감  |  |  3/21 PM 11:59 |
-| 3 | 재귀 | [FL강의](https://github.com/unizard/2019.Spring.DataStructure/issues/6), [강의자료](https://www.dropbox.com/s/z9sohcm0ff0wrel/%EA%B0%95%EC%9D%9802-%EC%9E%AC%EA%B7%80.pdf?dl=0), [실습](https://www.dropbox.com/s/ztqnpexvep9uoo9/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-3%EC%A3%BC%EC%B0%A8_%EC%9E%AC%EA%B7%80-20190322.pdf?dl=0) | 3/19, 3/22 |
-| 4 | 기초 데이터 구조 | [강의자료](https://www.dropbox.com/s/hesj4lsom5wyuso/%EA%B0%95%EC%9D%9803-%EA%B8%B0%EC%B4%88%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0_%EC%B5%9C%EC%9C%A0%EA%B2%BD.pdf?dl=0), [실습](https://www.dropbox.com/s/9hxybx6vgw63gvw/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-4%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%B4%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0-20190329.pdf?dl=0) | 3/26, 3/29 |
-|   | 퀴즈1 |  [퀴즈문제](https://www.dropbox.com/s/w4xzibmswj4eccd/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EC%8B%A4%EC%8A%B5%20%ED%80%B4%EC%A6%88_20190402.pdf?dl=0)  | 4/2 |
-| 5 | 리스트(1) | [FL강의](https://swexpertacademy.com/main/learn/course/subjectDetail.do?subjectId=AV185A6qI8ECFAZN#), [강의자료](https://www.dropbox.com/s/sdlyoahp16kijsd/%EA%B0%95%EC%9D%9804-%EB%A6%AC%EC%8A%A4%ED%8A%B8.pdf?dl=0), [실습](https://www.dropbox.com/s/5ra0puvi0zyluns/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-5%EC%A3%BC%EC%B0%A8_%EB%A6%AC%EC%8A%A4%ED%8A%B8%281%29-2019405.pdf?dl=0) | 4/5 |
-| 6 | 리스트(2) |  [실습](https://www.dropbox.com/s/78ex84pau53ackf/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-6%EC%A3%BC%EC%B0%A8_%EB%A6%AC%EC%8A%A4%ED%8A%B8%282%29-20190412.pdf?dl=0) | 4/9, 4/12 |
-|   | 퀴즈2 | [퀴즈문제]()  | 4/12 |
-| | 실습 마감 | | 4/18 PM 11:59|
+| | 실습 마감 | | |
+| 2 | 알고리즘 분석  | [강의자료](https://www.dropbox.com/s/f4gvfzk3vdwt6ee/%EA%B0%95%EC%9D%9801-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EC%84%9D_%EC%B5%9C%EC%9C%A0%EA%B2%BD.pdf?dl=0), [실습](https://www.dropbox.com/s/ll46d9hsojlyzjp/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-2%EC%A3%BC%EC%B0%A8_%EB%B6%84%EC%84%9D-20190315.pdf?dl=0) |  | 
+|   | 실습 마감  |  |   |
+| 3 | 재귀 | [FL강의](https://github.com/unizard/2019.Spring.DataStructure/issues/6), [강의자료](https://www.dropbox.com/s/z9sohcm0ff0wrel/%EA%B0%95%EC%9D%9802-%EC%9E%AC%EA%B7%80.pdf?dl=0), [실습](https://www.dropbox.com/s/ztqnpexvep9uoo9/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-3%EC%A3%BC%EC%B0%A8_%EC%9E%AC%EA%B7%80-20190322.pdf?dl=0) |  |
+| 4 | 기초 데이터 구조 | [강의자료](https://www.dropbox.com/s/hesj4lsom5wyuso/%EA%B0%95%EC%9D%9803-%EA%B8%B0%EC%B4%88%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0_%EC%B5%9C%EC%9C%A0%EA%B2%BD.pdf?dl=0), [실습](https://www.dropbox.com/s/9hxybx6vgw63gvw/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-4%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%B4%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0-20190329.pdf?dl=0) |  |
+|   | 퀴즈1 |  [퀴즈문제](https://www.dropbox.com/s/w4xzibmswj4eccd/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EC%8B%A4%EC%8A%B5%20%ED%80%B4%EC%A6%88_20190402.pdf?dl=0)  |  |
+| 5 | 리스트(1) | [FL강의](https://swexpertacademy.com/main/learn/course/subjectDetail.do?subjectId=AV185A6qI8ECFAZN#), [강의자료](https://www.dropbox.com/s/sdlyoahp16kijsd/%EA%B0%95%EC%9D%9804-%EB%A6%AC%EC%8A%A4%ED%8A%B8.pdf?dl=0), [실습](https://www.dropbox.com/s/5ra0puvi0zyluns/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-5%EC%A3%BC%EC%B0%A8_%EB%A6%AC%EC%8A%A4%ED%8A%B8%281%29-2019405.pdf?dl=0) |  |
+| 6 | 리스트(2) |  [실습](https://www.dropbox.com/s/78ex84pau53ackf/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-6%EC%A3%BC%EC%B0%A8_%EB%A6%AC%EC%8A%A4%ED%8A%B8%282%29-20190412.pdf?dl=0) | |
+|   | 퀴즈2 | [퀴즈문제]()  | |
+| | 실습 마감 | | |
 | 7-1 | 리스트(3) | [실습](https://www.dropbox.com/s/idiuhg3xm9jsd3s/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-7%EC%A3%BC%EC%B0%A8_%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8%283%29.pdf?dl=0)  | 4/16 | 
 | 7-2 | 리스트(4) | [이론](https://www.dropbox.com/s/cvk0wjycm75vjdg/%EA%B0%95%EC%9D%9804-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%B5%9C%EC%9C%A0%EA%B2%BDv2.pdf?dl=0)  | 4/19 | 
 | 8 | 중간고사 | 실기시험/이론시험  | 4/26 |

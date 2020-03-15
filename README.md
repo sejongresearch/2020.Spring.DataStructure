@@ -5,6 +5,7 @@
 - 실습 수업: 수 16:30-18:30 [OJ](https://ex-oj.sejong.ac.kr) 
 - 강의실: 센 B108
 - 조교님들: 메인조교-박종민(jmpark@rcv.sejong.ac.kr), 부조교-조원(jwon@rcv.sejong.ac.kr)
+- C/고급C 참고: https://github.com/sejongresearch/2019.Fall.AdvancedC
 
 | week | Cource Contents | LectureNote | Date | 
 |:---:|:---:|:---:|:---:|

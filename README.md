@@ -11,7 +11,7 @@
 | 1 | 강의개요 | [강의자료]() |  |
 |   |  C언어 복습 I | [실습1](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | 마감 3/22-23:59 |
 |   |  C언어 복습 II | [Set1](https://www.dropbox.com/s/vaeup8l5l9dg63u/%EB%AA%A8%EC%9D%981%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0), [Set2](https://www.dropbox.com/s/hp1ktc7wremy25a/%EB%AA%A8%EC%9D%982%EC%B0%A8%20%EC%9D%B8%EC%A6%9D%20%EC%84%B8%ED%8A%B8.pdf?dl=0) | 마감 3/29-23:59 |
-| | 퀴즈 | | |
+| | 퀴즈 | | 3/30  |
 | 2 | 알고리즘 분석  | [강의자료](https://www.dropbox.com/s/f4gvfzk3vdwt6ee/%EA%B0%95%EC%9D%9801-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EC%84%9D_%EC%B5%9C%EC%9C%A0%EA%B2%BD.pdf?dl=0), [실습](https://www.dropbox.com/s/ll46d9hsojlyzjp/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-2%EC%A3%BC%EC%B0%A8_%EB%B6%84%EC%84%9D-20190315.pdf?dl=0) |  | 
 |   | 실습 마감  |  |   |
 | 3 | 재귀 | [FL강의](https://github.com/unizard/2019.Spring.DataStructure/issues/6), [강의자료](https://www.dropbox.com/s/z9sohcm0ff0wrel/%EA%B0%95%EC%9D%9802-%EC%9E%AC%EA%B7%80.pdf?dl=0), [실습](https://www.dropbox.com/s/ztqnpexvep9uoo9/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-3%EC%A3%BC%EC%B0%A8_%EC%9E%AC%EA%B7%80-20190322.pdf?dl=0) |  |

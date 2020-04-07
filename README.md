@@ -19,7 +19,7 @@
 | 6 | 리스트(2) |  [실습](https://www.dropbox.com/s/78ex84pau53ackf/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-6%EC%A3%BC%EC%B0%A8_%EB%A6%AC%EC%8A%A4%ED%8A%B8%282%29-20190412.pdf?dl=0) | |
 | 7-1 | 리스트(3) | [실습](https://www.dropbox.com/s/idiuhg3xm9jsd3s/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-7%EC%A3%BC%EC%B0%A8_%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8%283%29.pdf?dl=0)  |  | 
 | 7-2 | 리스트(4) | [이론](https://www.dropbox.com/s/cvk0wjycm75vjdg/%EA%B0%95%EC%9D%9804-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%B5%9C%EC%9C%A0%EA%B2%BDv2.pdf?dl=0)  |  | 
-| 8 | 중간고사 | 실기시험/이론시험  |  |
+| 8 | 중간고사 | 실기시험/이론시험  | 4/27,4/29 |
 | 9 | 집합 | [강의자료](https://www.dropbox.com/s/xlnhfj7qwmhqg7x/%EA%B0%95%EC%9D%9805-%EC%A7%91%ED%95%A9.pdf?dl=0), [실습](https://www.dropbox.com/s/1egoqncil9229br/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-7%EC%A3%BC%EC%B0%A8_%EC%A7%91%ED%95%A9-20190419.pdf?dl=0)  | |
 | | 실습 추가 문제 | [실습](https://github.com/unizard/2019.Spring.DataStructure/issues/23) |  |
 | 10 | 스택(1) | [강의자료](https://www.dropbox.com/s/krzqpetgbj6jyz8/%EA%B0%95%EC%9D%9806-%EC%8A%A4%ED%83%9D.pdf?dl=0), [실습1](https://www.dropbox.com/s/p0tkv180xq2suf4/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-9%EC%A3%BC%EC%B0%A8_%EC%8A%A4%ED%83%9D%281%29-20190503.pdf?dl=0)  |  |

@@ -27,8 +27,7 @@
 |  | 큐 | [강의자료](https://www.dropbox.com/s/vu01kn8cpowbk3j/%EA%B0%95%EC%9D%9807-%ED%81%90-%EC%B5%9C%EC%9C%A0%EA%B2%BD-%ED%95%A9%EB%8F%99%ED%81%90%ED%95%A9%EB%8F%99%EC%8A%A4%ED%83%9D.pdf?dl=0), [실습문제](https://www.dropbox.com/s/9lvwr7x18xhn00e/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%ED%81%90_%EC%8B%A4%EC%8A%B5_20190530_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf?dl=0) |  |  
 | 13 | 트리  | [강의자료](https://www.dropbox.com/s/lpxh1m2487w6kem/%EA%B0%95%EC%9D%9808-%ED%8A%B8%EB%A6%AC.pdf?dl=0), [실습1](https://www.dropbox.com/s/jm9qvwlro6slpu5/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-12%EC%A3%BC%EC%B0%A8_%ED%8A%B8%EB%A6%AC%281%29-20190524.pdf?dl=0), [실습2](https://www.dropbox.com/s/klg549pgsbi1kxc/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-13%EC%A3%BC%EC%B0%A8_%ED%8A%B8%EB%A6%AC%282%29-20190531.pdf?dl=0)  | 
 | 14 | 트리  |  응용문제 [실습](https://www.dropbox.com/s/hcv9erqgmbnk1gb/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-14%EC%A3%BC%EC%B0%A8_%ED%8A%B8%EB%A6%AC%283%29-20190607.pdf?dl=0) | |
-| 15 | 분리집합 | [강의자료](https://www.dropbox.com/s/pch8wga6y9cxb68/%EA%B0%95%EC%9D%9809-%EB%B6%84%EB%A6%AC%EC%A7%91%ED%95%A9.pdf?dl=0)  |   |
-| 16 | 기말고사 | 이론, 실기  |    |
+| 15 | 기말고사 | 이론, 실기  |    |
 
 
 

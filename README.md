@@ -1,3 +1,5 @@
+## 온라인 강의
+- [비디오 전체](https://www.youtube.com/playlist?list=PL1xKqHsVFgvkjsEOlTU-h7HAOmD1Bpadd)
 
 ## 강의
 - [수업계획서](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5.pdf)

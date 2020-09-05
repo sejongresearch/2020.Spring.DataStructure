@@ -30,7 +30,8 @@
 | 14 | 트리  |  [강의자료-응용문제](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B408-%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5-%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-20200615.pdf), [실습3](https://www.dropbox.com/s/hcv9erqgmbnk1gb/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-14%EC%A3%BC%EC%B0%A8_%ED%8A%B8%EB%A6%AC%283%29-20190607.pdf?dl=0) | 마감 06/21-23:59 |
 | 15 | 기말고사 | 이론, 실기  |  06/24 (이론)+(실습)  |
 
-
+### 피드백
+- 차후 강의에서는 인공지능을 위한 수학은 뺴고 CNN+RNN을 빠르게 보강할 계획
 
 
 

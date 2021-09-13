@@ -13,12 +13,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 |  수업소개 | 이론 |[PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9_Intro_0315.pdf)| [Youtube](https://youtu.be/O5jodXjR084) |  |
 | 1 | VS디버깅 | 실습 | | [Youtube](https://youtu.be/7Ong15zyNjk) |  |
-| 2 | C언어복습 <br> 포인터(1) | 이론 | | [Youtube](https://youtu.be/f69fB5dhHdQ) |  |
-| 2 | C언어복습 <br> 포인터(2) | 이론 || [Youtube](https://youtu.be/fMJpcjrYHd0) |  |
-| 2 | C언어복습 <br> 문자열(1) | 이론 || [Youtube](https://youtu.be/CkilrQQPvnY) |  |
-| 2 | C언어복습 <br> 문자열(2) | 이론 || [Youtube](https://youtu.be/Sc0bQnRqnJs) |  |
-| 2 | C언어복습 <br> 구조체(1) | 이론 || [Youtube](https://youtu.be/qpn1rlvN_jY) |  |
-| 2 | C언어복습 <br> 구조체(2) | 이론 || [Youtube](https://youtu.be/21dmXKGGep8) |  |
+| 2 | C언어복습 <br> 포인터 | 이론 | [PDF]() | [Youtube](https://youtu.be/f69fB5dhHdQ) <br> [Youtube](https://youtu.be/fMJpcjrYHd0) |  |
+| 2 | C언어복습 <br> 문자열 | 이론 | [PDF]() | [Youtube](https://youtu.be/CkilrQQPvnY) <br> [Youtube](https://youtu.be/Sc0bQnRqnJs) |  |
+| 2 | C언어복습 <br> 구조체 | 이론 | [PDF]() | [Youtube](https://youtu.be/qpn1rlvN_jY) <br> [Youtube](https://youtu.be/21dmXKGGep8) |  |
 | 2 | C언어복습 <br> 동적할당 | 이론 || [Youtube](https://youtu.be/MZ46hNAs4bs) |  |
 | 2 | C언어복습 | 실습 | [PDF](https://www.dropbox.com/s/0ifi00guobtnj4l/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-1%EC%A3%BC%EC%B0%A8_C%EB%B3%B5%EC%8A%B5-20180308.pdf?dl=0) | OJ | 마감 3/22 |
 | 3 | 알고리즘 분석 | 이론 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B401-%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.pdf)| [Youtube](https://youtu.be/dXZZCZQXJyc) <br> [Youtube](https://youtu.be/-4Q3CB1Ny7E) |  | 

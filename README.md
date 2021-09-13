@@ -1,6 +1,10 @@
 
 ## 2020학년도 자료구조
-2020-1학기 지능기전공학부 자료구조 
+- 2020-1학기 지능기전공학부 자료구조 
+
+## 공지사항
+- 아래 정리된 동영상 및 파일에 문제가 있다면 ykchoi@sejong.ac.kr 로 신고해주세요.
+
 
 ## 강의계획서
 - [수업계획서](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5.pdf)
@@ -32,7 +36,7 @@
 | 7 | 리스트(2) | 이론 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B404-%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3.pdf) |  [Youtube](https://youtu.be/9oTYgj4EY-A) <br> [Youtube](https://youtu.be/F0cCqadITO4) <br> [Youtube](https://youtu.be/M3y3zb9r_qw) <br> [Youtube](https://youtu.be/19Z4nSydrrQ) <br> [Youtube](https://youtu.be/AXPhHGnFWao)  | |
 | 7 | 리스트(2) | 실습 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3(2)-20170321.pdf) | OJ|  04/26 |
 | 8 | 퀴즈 | 실습 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/files/4571397/-.1.A.-20200429.pdf) | OJ |   |
-| 9 | 중간고사 | 이론/실습 |  | |  05/06 |
+| 9 | 중간고사 | 이론/실습 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/2020.%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9.%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A9%E1%84%89%E1%85%A1_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%8B%E1%85%AD%E1%86%BC.pdf) | |  05/06 |
 | 10 | 집합 | 이론 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B405-%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%A1%E1%86%B8.pdf) | [Youtube](https://youtu.be/S1BzIaXt7nc) <br> [Youtube](https://youtu.be/LnjxyD0lV6A) |  | 
 | 10 | 집합 | 구현 |  | [Youtube](https://youtu.be/uybamFeYaCg) <br> [Youtube](https://youtu.be/quBRDaQws0M) |  |  
 | 10 | 집합 | 실습 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%8B%A4%EC%8A%B5-7%EC%A3%BC%EC%B0%A8_%EC%A7%91%ED%95%A9-20200520-%EC%B5%9C%EC%9C%A0%EA%B2%BD.pdf) | OJ |  05/16 |  
@@ -50,7 +54,7 @@
 | 15 | 트리 | 이론 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B408-%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5-20200607.pdf) | [Youtube](https://youtu.be/e9pJRpguR7I) <br> [Youtube](https://youtu.be/jShaMVPKGPE) |  |
 | 15 | 트리 | 구현 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/LectureNote/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B408-%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5-%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-20200615.pdf) | [Youtube](https://youtu.be/LPPGk8MeL2M) <br> [Youtube](https://youtu.be/AWwBPxyIdR8) <br> [Youtube](https://youtu.be/zp4jeUeY_v4) <br> [Youtube](https://youtu.be/n6WuTrIVA0Y) <br> [Youtube](https://youtu.be/WvtV6iMHn-I) |  |
 | 15 | 트리 | 실습 | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5(1)-20170407.pdf) <br> [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5(2)-20170410.pdf) <br> [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8-14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5(3)-20170425.pdf) | OJ |  06/21 |
-| 16 | 기말고사 | 이론/실습  |  | |  06/24 |
+| 16 | 기말고사 | 이론/실습  | [PDF](https://github.com/sejongresearch/2020.Spring.DataStructure/blob/master/HW/2020.%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9.%E1%84%80%E1%85%B5%E1%84%86%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%89%E1%85%A1_%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%8B%E1%85%AD%E1%86%BC_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB11%E1%84%89%E1%85%B5.pdf) | |  06/24 |
 
 
 
